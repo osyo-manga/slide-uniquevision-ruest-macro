@@ -16,6 +16,7 @@
 * 趣味で Ruby にパッチを投げたりしてる
 * Rust 歴は1日
     * 昔 struct + trait でコンパイル時処理で遊んだことはある
+    * コンパイル時に階乗を行おうとしたりとか…
     * https://osyo-manga.github.io/slide-shinjukurb-58-rust/#/
 
 
