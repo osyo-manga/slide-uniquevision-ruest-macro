@@ -111,7 +111,6 @@ macro_rules! plus {
 	// expr は『式を受け取る』という意味
 	// expr はフラグメント指定子と呼ばれる
 	($a: expr, $b: expr) => { $a + $b };
-	($a: expr, -, $b: expr) => { $a + $b };
 }
 macro_rules! calc {
 	// 演算子も受け取る事ができる
